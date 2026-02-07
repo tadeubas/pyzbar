@@ -1,0 +1,12 @@
+[tool.poetry]
+name="pyzbar"
+version="0.1.10"
+description="Read one-dimensional barcodes and QR codes from Python 3"
+license="MIT License"
+authors= ["Lawrence Hudson <quicklizard@googlemail.com>"]
+
+[tool.poetry.urls]
+repository = "https://github.com/NaturalHistoryMuseum/pyzbar"
+
+[tool.poetry.dependencies]
+python = "^3.0"
